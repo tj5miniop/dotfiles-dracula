@@ -1,0 +1,124 @@
+00:00:00.293089 VirtualBox GUI VM Selector Window 7.0.20 r163906 linux.amd64 (Jul 16 2024 16:28:23) release log
+00:00:00.293090 Log opened 2024-08-01T20:23:30.222114000Z
+00:00:00.293091 Build Type: release
+00:00:00.293092 OS Product: Linux
+00:00:00.293093 OS Release: 6.10.2-2-cachyos
+00:00:00.293093 OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 27 Jul 2024 14:57:46 +0000
+00:00:00.293110 DMI Product Name: System Product Name
+00:00:00.293117 DMI Product Version: System Version
+00:00:00.293121 Firmware type: UEFI
+00:00:00.293232 Secure Boot: Disabled
+00:00:00.293274 Host RAM: 32008MB (31.2GB) total, 29408MB (28.7GB) available
+00:00:00.293277 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.293277 Process ID: 2208
+00:00:00.293277 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.293297 Qt version: 5.15.14
+00:00:00.293876 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.297007 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.297020 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.713750 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1052
+00:00:00.724946 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1052
+00:00:00.893395 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1052
+00:00:00.910889 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1052
+00:00:00.923173 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1036
+00:00:00.923840 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1036
+00:00:00.960152 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1036
+00:00:00.980736 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1036
+00:00:00.998419 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1025
+00:00:00.999478 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1025
+00:00:01.000480 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1023
+00:00:01.001656 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1023
+00:00:01.026680 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1025
+00:00:01.043107 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1023
+00:00:01.050103 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1020
+00:00:01.050978 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1020
+00:00:01.074075 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1020
+00:00:01.127056 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1020
+00:00:01.129360 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1036
+00:00:01.130248 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1036
+00:00:01.151532 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1046
+00:00:01.168954 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1036
+00:00:01.184370 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1038
+00:00:01.185713 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1038
+00:00:01.213620 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1046
+00:00:01.228142 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1038
+00:00:01.242299 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1036
+00:00:01.243889 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1036
+00:00:01.273522 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1046
+00:00:01.283227 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1025
+00:00:01.285450 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1025
+00:00:01.307473 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1046
+00:00:01.320696 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1025
+00:00:01.331422 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1020
+00:00:01.332368 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1020
+00:00:01.351398 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1036
+00:00:01.367521 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1020
+00:00:03.573057 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1036
+00:00:03.574129 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1036
+00:00:03.641056 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1036
+00:00:03.655343 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1036
+00:00:47.766146 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:47.794070 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:03.729109 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:13.858083 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:05.793679 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1037
+00:02:05.794571 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1037
+00:02:05.823792 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1037
+00:02:05.849997 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1037
+00:02:05.892698 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1046
+00:02:05.893359 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1046
+00:02:05.937907 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1046
+00:02:05.957019 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1046
+00:02:06.008909 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1052
+00:02:06.009526 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1052
+00:02:06.055519 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1052
+00:02:06.077244 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1052
+00:02:06.099604 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1036
+00:02:06.100364 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1036
+00:02:06.127743 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1052
+00:02:06.143860 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1036
+00:02:06.513980 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:06.600740 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1032
+00:02:06.601680 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1032
+00:02:06.632638 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1036
+00:02:06.682827 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1032
+00:02:06.779668 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1020
+00:02:06.780606 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1020
+00:02:06.827214 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1036
+00:02:06.855779 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1020
+00:02:06.925493 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1036
+00:02:06.926811 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1036
+00:02:06.979312 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1036
+00:02:07.001458 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1036
+00:02:07.069125 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:07.389067 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:07.781652 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:08.374309 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1032
+00:02:08.375186 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1032
+00:02:08.411683 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1036
+00:02:08.436454 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1032
+00:02:08.470258 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1023
+00:02:08.471098 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1023
+00:02:08.506612 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1036
+00:02:08.533726 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1023
+00:02:08.557784 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1020
+00:02:08.558649 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1020
+00:02:08.596187 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1036
+00:02:08.623518 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1020
+00:02:08.639063 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 1920x0 x 1920x1036
+00:02:08.639781 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 1 work area is formally resized to: 0x0 x 1920x1036
+00:02:08.662037 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x0 x 1920x1036
+00:02:08.689639 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1036
+00:02:09.017919 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:21.903476 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:35.511142 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:15.592748 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:42.693273 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:42.800933 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:54.628558 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:57.917960 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:54.584158 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:11.403827 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:13.475645 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:00.458491 GUI: UICommon: Handling aboutToQuit request..
+00:10:01.420656 GUI: UICommon: aboutToQuit request handled!
